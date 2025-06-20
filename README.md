@@ -3,7 +3,7 @@
 🎓 I'm currently pursuing an Integrated M.Tech in Software Engineering at **Vellore Institute of Technology, Chennai**.
 
 💡 I'm passionate about building **intelligent systems** and **collaborative web applications**.  
-🔭 Currently learning full-stack development, system design, and predictive analytics.
+🔭 Currently learning full-stack development, system design, and Automation using Playwright Js.
 
 ---
 
