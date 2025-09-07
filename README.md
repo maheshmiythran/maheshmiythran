@@ -9,17 +9,17 @@
 
 ## 🚀 Projects
 
-### 👥 Collaborative Coding Platform
-> Real-time team coding with live sync using WebSockets & Firebase  
-Tech: JavaScript, WebSockets, Firebase
-
 ### 🦺 Smart Worker Safety System
 > Predictive system for monitoring construction site hazards in real-time  
 Tech: Python, Pandas, Scikit-learn, NumPy, SciPy
 
-### 💰 Expense Tracker
-> Full-stack web app for income/expense tracking and visualization  
-Tech: MongoDB, Express.js, React.js, Node.js (MERN stack)
+### 	GroMart – Grocery Shopping Website 
+Full-stack MERN web application for online grocery shopping and Order Managing & tracking
+
+•	Developed user authentication and secure data persistence with MongoDB.
+•	Designed and integrated a Seller Dashboard to manage products, handle orders, and oversee the full shipping-to-delivery workflow.
+•	Deployed and optimized the application for seamless performance using MERN Stack (MongoDB, Express.js, React.js, Node.js).
+
 
 ### 📧 Phishing Email Detection
 > BERT-powered system to classify phishing emails using deep learning  
