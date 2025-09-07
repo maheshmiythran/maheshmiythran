@@ -15,10 +15,9 @@ Tech: Python, Pandas, Scikit-learn, NumPy, SciPy
 
 ### 	GroMart – Grocery Shopping Website 
 Full-stack MERN web application for online grocery shopping and Order Managing & tracking
-
-•	Developed user authentication and secure data persistence with MongoDB.
-•	Designed and integrated a Seller Dashboard to manage products, handle orders, and oversee the full shipping-to-delivery workflow.
-•	Deployed and optimized the application for seamless performance using MERN Stack (MongoDB, Express.js, React.js, Node.js).
+> Developed user authentication and secure data persistence with MongoDB.
+	Designed and integrated a Seller Dashboard to manage products, handle orders, and oversee the full shipping-to-delivery workflow.
+	Deployed and optimized the application for seamless performance using MERN Stack (MongoDB, Express.js, React.js, Node.js).
 
 
 ### 📧 Phishing Email Detection
