@@ -25,7 +25,10 @@ Full-stack MERN web application for online grocery shopping and Order Managing &
 
 ### 🍽 Sentiment Analysis of Restaurant Reviews
 NLP-based system to analyze customer reviews and classify sentiment (Positive/Negative/Neutral)
-> BERT-powered system to classify phishing emails using deep learning
+> Developed a machine learning pipeline to classify restaurant reviews into sentiment categories using Natural Language Processing techniques.
+Performed text preprocessing including tokenization, stopword removal, stemming, and TF-IDF vectorization to convert textual data into numerical features.
+Trained and evaluated multiple classification models such as Logistic Regression and Naive Bayes, comparing performance metrics including accuracy and confusion matrix.
+Visualized sentiment distribution and extracted insights from customer feedback to identify trends in service quality and customer satisfaction.
 > Tech: Python, Pandas, Scikit-learn, NLTK, Matplotlib.
 
 ---
