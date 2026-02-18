@@ -2,7 +2,7 @@
 
 🎓 I'm currently pursuing an Integrated M.Tech in Software Engineering at **Vellore Institute of Technology, Chennai**.
 
-💡 I’m passionate about building **AI-driven systems** and **scalable web applications** that solve real-world problems..  
+💡 I’m passionate about building **AI-driven systems** and **scalable web applications** also **Machine Learning** that solve real-world problems..  
 🔭 Currently Learning and has Interest in Artificial Intelligence, Machine Learning , system design, and Full Stack Web Development using AI Automation using Playwright Js.
 
 ---
